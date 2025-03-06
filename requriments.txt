@@ -1,0 +1,5 @@
+streamlit
+seaborn
+pandas
+matplotlib
+# Add any other libraries your project uses
